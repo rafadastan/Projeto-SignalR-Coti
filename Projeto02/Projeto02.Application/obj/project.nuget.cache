@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/qfGLrbaTjnydDqZTPuN1KzVwMRsGQOgWFAtdpPmutgSr6/qKHgSwQX0VlG50x5JineaKoFNIOp1DQuLPubiDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samsung\\Desktop\\COTI - Aulas\\2021 - C# WebDeveloper Avançado Sab 2021\\Aula 09 - 28.08.21\\Projeto02\\Projeto02.Application\\Projeto02.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samsung\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
